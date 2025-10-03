@@ -24,4 +24,10 @@ streamlit run titanic_dashboard.py
 streamlit run log_open_dashboard.py
 
 
+3. Weather Dashboard (City Name → Auto Lat/Lon → Weather API)
+
+streamlit run weather_city_dashboard.py
+
+
+
    
