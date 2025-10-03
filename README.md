@@ -29,5 +29,11 @@ streamlit run log_open_dashboard.py
 streamlit run weather_city_dashboard.py
 
 
+4. Robust Stock Dashboard (All tickers safe)
+
+
+streamlit run stock_dashboard.py
+
+
 
    
