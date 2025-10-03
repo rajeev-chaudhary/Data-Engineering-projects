@@ -39,6 +39,10 @@ streamlit run stock_dashboard.py
 
 streamlit run real_time_stock_dashboard.py
 
+6.Multi-Stock Comparative Dashboard + Analytics
+
+streamlit run multi_stock_dashboard.py
+
 
 
    
