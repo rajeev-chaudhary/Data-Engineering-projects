@@ -35,5 +35,10 @@ streamlit run weather_city_dashboard.py
 streamlit run stock_dashboard.py
 
 
+5.Real-Time Stock Dashboard (Advanced)
+
+streamlit run real_time_stock_dashboard.py
+
+
 
    
